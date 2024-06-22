@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/facilis-debitis-incidunt-laboriosam",
-  "version": "2.2.49",
+  "version": "2.2.50",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -626,5 +626,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/facilis-debitis-incidunt-laboriosam/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
